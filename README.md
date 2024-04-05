@@ -62,7 +62,7 @@ Doporučená maximální rychlost: Ne více než `2.0`.
 
 ### Nová funkce: Router (vyšší verze 1.4)
 
-Umístěte nástěnnou cedulku nad koleje
+Umístěte nástěnnou cedulku pod kolej
 
 ```
 _____*___
